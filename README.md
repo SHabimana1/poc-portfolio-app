@@ -150,3 +150,4 @@ docker build -t flask-resume-app .
 # Run the container
 docker run -d -p 5001:5001 flask-resume-app
 ```
+# cicd-projects
